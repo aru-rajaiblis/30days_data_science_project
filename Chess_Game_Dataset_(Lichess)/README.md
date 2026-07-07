@@ -1,4 +1,4 @@
-# Day 3:  
+# Day 3: Analisis Permainan Catur
 
 **Dataset:** [Kaggle - https://www.kaggle.com/datasets/datasnaek/chess](https://www.kaggle.com/datasets/datasnaek/chess)
 
