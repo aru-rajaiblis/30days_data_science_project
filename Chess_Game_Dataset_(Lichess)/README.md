@@ -42,6 +42,7 @@ Dalam diagram pencar ini, titik-titik terpusat pada pada area x 0 - 150, dan y 0
 
 
 semakin tinggi selisih rating dalam sebuah permainan maka pertandunga bisa berakhir lebih cepat lagi sekitar 0 - 100 gerakan
+
 ---
 
 Jujur agak kecewa karena saya rely dengan AI agak sering hari ini, tapi bukan berarti menjadi alasan untuk tidak belajar. Oleh karena itu, tetaplah konsisten untuk belajar
