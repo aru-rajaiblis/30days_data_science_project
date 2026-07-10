@@ -10,6 +10,7 @@ Di setiap folder, terdapat catatan singkat mengenai dataset yang dianalisis, vis
 - **Day 2**: ['Analisis Kemungkinan Dampak AI Terhadap Pekerjaan Di 2030'](./Ai_Impact_in_future_on_jobs_market_in_2030/README.md)
 - **Day 3**: ['Analisis Permainan Catur'](./Chess_Game_Dataset_(Lichess)/README.md)
 - **Day 4**: ['Saham Intel'](./intel_stock_analytics/README.md)
+- **Day 4**: ['Analisis Pendengar Musik'](./music_streaming_analisis/README.md)
 
 ## 🛠️ Tool & Library
 - **Bahasa:** Python
