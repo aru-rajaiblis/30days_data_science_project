@@ -11,6 +11,7 @@ Di setiap folder, terdapat catatan singkat mengenai dataset yang dianalisis, vis
 - **Day 3**: ['Analisis Permainan Catur'](./Chess_Game_Dataset_(Lichess)/README.md)
 - **Day 4**: ['Saham Intel'](./intel_stock_analytics/README.md)
 - **Day 5**: ['Analisis Pendengar Musik'](./music_streaming_analisis/README.md)
+- **Day 6**: ['Time Series Analytics'](./harga_chip/README.md)
 
 ## 🛠️ Tool & Library
 - **Bahasa:** Python
